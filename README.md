@@ -7,7 +7,7 @@ a GUI
 C++ does not allow to make a GUI, while the other 2 do allow it
 
 Also displays my ability to write mySQL queries
-Used Object Oriented Programming Practices, as well as Paired Programming to build this project
+using Object Oriented Programming Practices, as well as Paired Programming to build this project
 
 University Database was built using a given schema
 Airport Database was built from stratch with research done, as well as building an ER diagram and schema, and then converting

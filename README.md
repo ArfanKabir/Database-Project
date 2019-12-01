@@ -5,3 +5,6 @@ Project taught that it is much easier to use a database with Java and/or Python,
 a GUI
 
 C++ does not allow to make a GUI, while the other 2 do allow it
+
+Also displays my ability to write mySQL queries
+Used Object Oriented Programming Practices, as well as Paired Programming to build this project
